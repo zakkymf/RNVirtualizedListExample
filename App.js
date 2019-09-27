@@ -25,7 +25,6 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import data from './data';
-console.warn("TCL: data", data.length)
 
 const App: () => React$Node = () => {
   return (
